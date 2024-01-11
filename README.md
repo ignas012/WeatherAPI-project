@@ -19,4 +19,5 @@ It will install libraries from [requirements.txt](requirements.txt) file
 ## Running the codes
 
 `api_data_request` script is responsible for parsing data from the API and storing it in a CSV file.
+  
 `analysis.ipynb` script graphs the data from [2021 metų orai.csv](<2021 metų orai.csv>) and [2022 metų orai.csv](<2021 metų orai.csv>)
